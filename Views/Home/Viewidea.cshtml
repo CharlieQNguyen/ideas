@@ -1,0 +1,19 @@
+﻿<a href="/Dashboard">Bright Ideas</a>
+<a href="/">Log Out</a>
+<table class="table table-striped">
+    <th>Alias</th>
+    <th>Name</th>
+    <tr>
+ @foreach(var like in @ViewBag.idea.likes)
+ {
+    <tr>
+        <td><a href="/user/@like.userId">@like.userObject.alias</a></td>
+        <td>@like.userObject.name</td>  
+    </tr>
+ }
+</table>
+
+<p><a href="/user/@ViewBag.idea.user.userId">@ViewBag.idea.user.name</a> says: @ViewBag.idea.post</p>
+
+
+

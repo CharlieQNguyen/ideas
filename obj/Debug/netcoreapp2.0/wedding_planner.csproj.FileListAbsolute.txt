@@ -1,0 +1,22 @@
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/bin/Debug/netcoreapp2.0/wedding_planner.deps.json
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/bin/Debug/netcoreapp2.0/wedding_planner.runtimeconfig.json
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/bin/Debug/netcoreapp2.0/wedding_planner.runtimeconfig.dev.json
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/bin/Debug/netcoreapp2.0/wedding_planner.dll
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/bin/Debug/netcoreapp2.0/wedding_planner.pdb
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/obj/Debug/netcoreapp2.0/wedding_planner.csprojResolveAssemblyReference.cache
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/obj/Debug/netcoreapp2.0/wedding_planner.csproj.CoreCompileInputs.cache
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/obj/Debug/netcoreapp2.0/wedding_planner.AssemblyInfoInputs.cache
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/obj/Debug/netcoreapp2.0/wedding_planner.AssemblyInfo.cs
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/obj/Debug/netcoreapp2.0/wedding_planner.dll
+/Users/DoWork/Desktop/C#/MVC/wedding_planner/obj/Debug/netcoreapp2.0/wedding_planner.pdb
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/bin/Debug/netcoreapp2.0/wedding_planner.deps.json
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/bin/Debug/netcoreapp2.0/wedding_planner.runtimeconfig.json
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/bin/Debug/netcoreapp2.0/wedding_planner.runtimeconfig.dev.json
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/bin/Debug/netcoreapp2.0/wedding_planner.dll
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/bin/Debug/netcoreapp2.0/wedding_planner.pdb
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/obj/Debug/netcoreapp2.0/wedding_planner.csprojResolveAssemblyReference.cache
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/obj/Debug/netcoreapp2.0/wedding_planner.csproj.CoreCompileInputs.cache
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/obj/Debug/netcoreapp2.0/wedding_planner.AssemblyInfoInputs.cache
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/obj/Debug/netcoreapp2.0/wedding_planner.AssemblyInfo.cs
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/obj/Debug/netcoreapp2.0/wedding_planner.dll
+/Users/DoWork/Desktop/C#/MVC/wedding_planner copy/obj/Debug/netcoreapp2.0/wedding_planner.pdb

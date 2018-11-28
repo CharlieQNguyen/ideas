@@ -1,0 +1,37 @@
+﻿<h1>Welcome @ViewBag.User</h1>
+<a href="/">Log Out</a>
+@model Idea
+<form asp-action="LogPost" asp-controller="Home" method="POST">
+    <span asp-validation-for="post"></span>
+    <label asp-for="post">Idea</label>
+    <input asp-for="post" type="post" name="post">
+    <br>
+    <input type="submit" value="Idea">
+</form>
+
+<table class="table table-striped">
+    <th>Alias</th>
+    <th>Idea</th>
+    <th>Likes</th>
+    <th>Action</th>
+ @foreach(var idea in ViewBag.allIdeas) {
+<tr>
+<td>
+    <a href="user/@idea.userId">@idea.user.alias</a>
+</td>
+    <td>@idea.post</td>
+    @{
+        bool likedflag = false;
+        
+    }
+<td><a href="like/@idea.ideasId">Like</a> | <a href="bright/@idea.ideasId">@idea.likes.Count people </a> like this.</td>
+<td>
+    @if(ViewBag.activeUser == idea.userId)
+    {
+        <a href="delete/@idea.ideasId">delete</a>
+    }
+</td>
+</tr>
+
+}
+</table>

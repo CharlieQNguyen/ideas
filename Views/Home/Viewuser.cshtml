@@ -1,0 +1,10 @@
+@model User
+<a href="/Dashboard">Bright Ideas</a>
+<a href="/">Log Out</a>
+
+<h3>Name: @ViewBag.user.name</h3>
+<h3>Alias: @ViewBag.user.alias</h3>
+<h3>Email: @ViewBag.user.email</h3>
+
+Total Number Posts: @ViewBag.user.ideas.Count
+Number of likes: @ViewBag.user.likes.Count
